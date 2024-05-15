@@ -2,13 +2,14 @@
 create local .gitignore file
 
 ### Steps
-1. From the command line,  move into the  desired directory and make a file called .gitignore
-
+1. Open Terminal.
+2. Navigate to the desired directory.
+3. Create a file called .gitignore
      `touch .gitignore`
-
-2.  
+4.  
 
 
 ### Referenced >
 https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 https://github.com/github/gitignore
+https://git-scm.com/docs/gitignore
