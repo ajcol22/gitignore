@@ -4,7 +4,7 @@ create local .gitignore file
 ### Steps
 1. From the command line,  move into the  desired directory and make a file called .gitignore
 
-`touch .gitignore`
+     `touch .gitignore`
 
 2.  
 
