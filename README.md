@@ -1,5 +1,5 @@
 # gitignore
-create local .gitignore file
+how to create local .gitignore file
 
 ### Steps
 1. Open Terminal.
